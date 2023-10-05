@@ -1,0 +1,4 @@
+select = retrieve rows selected from one or more tables
+delete =   statement that removes rows from a table
+execute =  A tool for building the processes,
+update =  statement that modifies rows in a table
